@@ -16,9 +16,7 @@ Or you can:
 Running the Server
 Open a terminal or command prompt.
 
-Run the server script:
-'''python rat_server.py
-ollow the prompts to enter the server IP address and port number.
+Follow the prompts to enter the server IP address and port number.
 
 The server will start listening for incoming connections. Ensure no firewall restrictions block the chosen port.
 
